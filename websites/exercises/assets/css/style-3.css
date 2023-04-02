@@ -1,0 +1,27 @@
+.section-selector-1{
+    background-color: var(--black-000);;
+}
+.section-selector-1 h2,
+.section-selector-1 p{
+    color: var(--white-000);
+}
+
+.section-selector-1 h2{
+    letter-spacing: 0;
+}
+
+.section-selector-1 h2 span{
+    color: var(--yellow-600);
+}
+
+.section-selector-1 p{
+    font-size: var(--font-size-md);
+}
+
+.section-selector-1 h4 span{
+    background-color: var(--white-000);
+    color: var(--black-000);
+}
+.section-selector-1 h2 span{
+    color: var(--red-600);
+}
