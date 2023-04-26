@@ -8,12 +8,26 @@
 
     
 }
+.col-2 col-visual{
+    height: 30%;
+    width: 30%;
+}
+.sub-head{
+    color: whitesmoke;
+}
+.presentation-3{
+    color: #5f6c7b;
+}
+.container-menu{
+    font-family: 'Libre Baskerville', serif;
+}
 .hero{
-    background-color:#a2a8d3
+    background-color:whitesmoke;
 }
 .cols-2-half{
     font-family: 'Libre Baskerville', serif;
 }
+
 
 .section-selector-1 {
     font-family: 'Libre Baskerville', serif;
@@ -26,17 +40,17 @@
     background-color: #38598b;
     font-family: 'Libre Baskerville', serif;
 }
-
+.presentation-2{
+    color: #5f6c7b;
+}
 .allfooters {
     background-color: #506f85;
     font-family: 'Libre Baskerville', serif;}
 
 .section-selector-1 h2{
-    color: #5f6c7b;
+    color: whitesmoke;
 }
-.section-selector-1 h3{
-    color: darkred;
-}
+
 .section-selector-2 h1{
     color: #38598b;
 }
@@ -44,11 +58,15 @@
     color: #5f6c7b;
 }
 .section-selector-2 h3{
-    color: darkred;
+    color: whitesmoke;
 }
 .cols-2-half h1{
     color: #094067;
 }
 .cols-2-half h2{
     color: #5f6c7b;
+}
+
+.space{
+    background-color: whitesmoke;
 }
