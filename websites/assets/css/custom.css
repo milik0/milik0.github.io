@@ -1,19 +1,54 @@
 .brand{
-    max-height: 50px;
-    display: block;
-    padding: 0;
-    margin-top: 0;
-}
+    height: 10%;
+    width: 10%;
+    top: 15;
+    left: 15;
+    position: absolute;;
 
+
+    
+}
+.hero{
+    background-color:#a2a8d3
+}
 .cols-2-half{
     font-family: 'Libre Baskerville', serif;
 }
-.section-selector-1 {letter-spacing: 1px;}
 
-.section-selector-1 {font-family: 'Libre Baskerville', serif;}
+.section-selector-1 {
+    font-family: 'Libre Baskerville', serif;
+    background-color: #094067;
+    letter-spacing: 1px;}
 
 .allheadings {font-family: 'Libre Baskerville', serif;}
 
-.section-selector-2{font-family: 'Libre Baskerville', serif;}
+.section-selector-2{
+    background-color: #38598b;
+    font-family: 'Libre Baskerville', serif;
+}
 
-.allfooters {font-family: 'Libre Baskerville', serif;}
+.allfooters {
+    background-color: #506f85;
+    font-family: 'Libre Baskerville', serif;}
+
+.section-selector-1 h2{
+    color: #5f6c7b;
+}
+.section-selector-1 h3{
+    color: darkred;
+}
+.section-selector-2 h1{
+    color: #38598b;
+}
+.section-selector-2 h2{
+    color: #5f6c7b;
+}
+.section-selector-2 h3{
+    color: darkred;
+}
+.cols-2-half h1{
+    color: #094067;
+}
+.cols-2-half h2{
+    color: #5f6c7b;
+}
