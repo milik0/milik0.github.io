@@ -1,3 +1,19 @@
 .brand{
-    max-height: 2em;
+    max-height: 50px;
+    display: block;
+    padding: 0;
+    margin-top: 0;
 }
+
+.cols-2-half{
+    font-family: 'Libre Baskerville', serif;
+}
+.section-selector-1 {letter-spacing: 1px;}
+
+.section-selector-1 {font-family: 'Libre Baskerville', serif;}
+
+.allheadings {font-family: 'Libre Baskerville', serif;}
+
+.section-selector-2{font-family: 'Libre Baskerville', serif;}
+
+.allfooters {font-family: 'Libre Baskerville', serif;}
